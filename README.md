@@ -1,6 +1,3 @@
-Here’s a clean, professional write-up you can use on your GitHub project README 👇
-
-
 ## 📊 Electronics Sales Data Analysis (USA)
 
 This project explores sales data from an electronics store in the United States over an 11-month period (simulated dataset). The goal was to answer key business questions using data analysis and visualization.
